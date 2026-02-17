@@ -1,0 +1,2 @@
+rop,q,service_level,stockout_days,avg_on_hand,max_on_hand,holding_cost,stockout_cost,expedite_cost,total_cost,meets_target
+240,350,0.9957167332952599,4,222.66666666666666,577,801.5999999999999,90.0,500.0,1391.6,True
